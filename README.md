@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Brian's React Portfolio
+This is the home of my first react portfolio. One that I hope marks the beginning  
+of a long and interesting journey through web-development and a life full of tech!  
+Let's see what we can build together!
+
+<br>
+<br>
+<br>
+
+## Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+###### Thanks!
 
 ## Available Scripts
 
