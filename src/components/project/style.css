@@ -1,0 +1,14 @@
+.card {
+  margin: 15px !important;
+}
+
+.projectimg {
+  height: 80%;
+  width: 80%;
+  margin-top: 20px;
+  align-self: center;
+}
+
+.g-4 {
+  margin: 20px;
+}
