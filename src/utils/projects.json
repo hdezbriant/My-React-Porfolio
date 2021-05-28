@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "title": "CacheApp",
+      "category": "Financial App with a small team",
+      "image": "CacheApp.png",
+      "url": "cache-app-io.herokuapp.com/"
+    },
+    {
+      "title": "All-Trails-And-Parks",
+      "category": "A map search tool to find local parks and trails",
+      "image": "alltrailsbanner.png",
+      "url": "https://hdezbriant.github.io/AllTrails-AND-Parks/"
+    },
+    {
+      "title": "E-Commerce backend",
+      "category": "Starter code for an e-commerce app's SQL database",
+      "image": "commerce.png",
+      "url": "https://github.com/hdezbriant/E-Commerce-Starter-Backend"
+    },
+    {
+      "title": "Google Books Searchinator",
+      "category": "Search tool using Google Books API",
+      "image": "gbsearch.png",
+      "url": "https://google-books-searchinator.herokuapp.com/"
+    },
+    {
+      "title": "CLI README generator",
+      "category": "A CLI tool to generate README files for a project",
+      "image": "readme.jpg",
+      "url": "https://github.com/hdezbriant/README-generator"
+    }
+  ]
+}
