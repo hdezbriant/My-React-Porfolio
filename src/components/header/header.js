@@ -13,6 +13,7 @@ function Header() {
         style={{ backgroundImage: `url(${gears})` }}
       >
         <Card
+          id="aboutme"
           bg="secondary"
           style={{ width: "75%" }}
           className="shadow-lg rounded"
