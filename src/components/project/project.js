@@ -18,7 +18,7 @@ function Projects() {
             <Card.Text>Financial budgeting App</Card.Text>
           </Card.Body>
           <Card.Footer>
-            <a href="cache-app-io.herokuapp.com/" className="text-warning">
+            <a href="https://cache-app-io.herokuapp.com/" className="text-warning">
               Deployed here
             </a>
           </Card.Footer>
