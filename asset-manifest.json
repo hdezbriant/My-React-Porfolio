@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/My-React-Portfolio/static/css/main.e0ed3f83.chunk.css",
-    "main.js": "/My-React-Portfolio/static/js/main.909abcad.chunk.js",
-    "main.js.map": "/My-React-Portfolio/static/js/main.909abcad.chunk.js.map",
-    "runtime-main.js": "/My-React-Portfolio/static/js/runtime-main.94467e50.js",
-    "runtime-main.js.map": "/My-React-Portfolio/static/js/runtime-main.94467e50.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/My-React-Portfolio/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.6d3ee65f.chunk.js": "/My-React-Portfolio/static/js/2.6d3ee65f.chunk.js",
-    "static/js/2.6d3ee65f.chunk.js.map": "/My-React-Portfolio/static/js/2.6d3ee65f.chunk.js.map",
-    "index.html": "/My-React-Portfolio/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/My-React-Portfolio/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.e0ed3f83.chunk.css.map": "/My-React-Portfolio/static/css/main.e0ed3f83.chunk.css.map",
-    "static/js/2.6d3ee65f.chunk.js.LICENSE.txt": "/My-React-Portfolio/static/js/2.6d3ee65f.chunk.js.LICENSE.txt",
-    "static/media/CacheApp.0127ca28.png": "/My-React-Portfolio/static/media/CacheApp.0127ca28.png",
-    "static/media/alltrailsbanner.e45e0eb6.png": "/My-React-Portfolio/static/media/alltrailsbanner.e45e0eb6.png",
-    "static/media/commerce.98d4ccc7.png": "/My-React-Portfolio/static/media/commerce.98d4ccc7.png",
-    "static/media/gbsearch.8cd57faf.png": "/My-React-Portfolio/static/media/gbsearch.8cd57faf.png",
-    "static/media/gears.7740d2c6.png": "/My-React-Portfolio/static/media/gears.7740d2c6.png",
-    "static/media/readme.4be8e7d3.jpg": "/My-React-Portfolio/static/media/readme.4be8e7d3.jpg",
-    "static/media/self.0b2c35d2.jpg": "/My-React-Portfolio/static/media/self.0b2c35d2.jpg"
+    "main.css": "/Portfolio/static/css/main.e0ed3f83.chunk.css",
+    "main.js": "/Portfolio/static/js/main.8bb9b79f.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.8bb9b79f.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.112e7d54.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.112e7d54.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b06a4dc3.chunk.js": "/Portfolio/static/js/2.b06a4dc3.chunk.js",
+    "static/js/2.b06a4dc3.chunk.js.map": "/Portfolio/static/js/2.b06a4dc3.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.e0ed3f83.chunk.css.map": "/Portfolio/static/css/main.e0ed3f83.chunk.css.map",
+    "static/js/2.b06a4dc3.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.b06a4dc3.chunk.js.LICENSE.txt",
+    "static/media/CacheApp.0127ca28.png": "/Portfolio/static/media/CacheApp.0127ca28.png",
+    "static/media/alltrailsbanner.e45e0eb6.png": "/Portfolio/static/media/alltrailsbanner.e45e0eb6.png",
+    "static/media/commerce.98d4ccc7.png": "/Portfolio/static/media/commerce.98d4ccc7.png",
+    "static/media/gbsearch.8cd57faf.png": "/Portfolio/static/media/gbsearch.8cd57faf.png",
+    "static/media/gears.7740d2c6.png": "/Portfolio/static/media/gears.7740d2c6.png",
+    "static/media/readme.4be8e7d3.jpg": "/Portfolio/static/media/readme.4be8e7d3.jpg",
+    "static/media/self.0b2c35d2.jpg": "/Portfolio/static/media/self.0b2c35d2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.94467e50.js",
+    "static/js/runtime-main.112e7d54.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.6d3ee65f.chunk.js",
+    "static/js/2.b06a4dc3.chunk.js",
     "static/css/main.e0ed3f83.chunk.css",
-    "static/js/main.909abcad.chunk.js"
+    "static/js/main.8bb9b79f.chunk.js"
   ]
 }
