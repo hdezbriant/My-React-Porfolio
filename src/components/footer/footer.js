@@ -8,12 +8,12 @@ function Footer() {
           Github
         </Nav.Link>
         <Nav.Link
-          href="https://www.linkedin.com/in/brian-hernandez-309b2a20a/"
+          href="https://www.linkedin.com/in/hernandez-brian/"
           className="text-warning"
         >
           Linkedin
         </Nav.Link>
-        <Nav.Link mailto="hernandez.briant@gmail.com" className="text-warning">
+        <Nav.Link href="mailto:hernandez.briant@gmail.com" className="text-warning">
           E-mail me!
         </Nav.Link>
       </Nav>
