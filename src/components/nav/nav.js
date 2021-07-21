@@ -7,7 +7,7 @@ function NavBar() {
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="mx-auto">
           <Nav.Link href="#aboutme">About Me</Nav.Link>
-          <Nav.Link href="#education">Education</Nav.Link>
+          {/* <Nav.Link href="#education">Education</Nav.Link> */}
           <Nav.Link href="#projects">Projects</Nav.Link>
           <Nav.Link href="#connect">Connect!</Nav.Link>
         </Nav>
